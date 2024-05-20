@@ -5,7 +5,7 @@
         <div class="w-full max-w-md">
 
             <div class="flex justify-center text-white mb-6 text-5xl font-bold">
-                <img class="w-48" alt="addy.io Logo" src="/svg/logo.svg">
+                <img class="w-48" alt="mxbox.in Logo" src="/svg/logo-neu.svg">
             </div>
             <div class="flex flex-col break-words bg-white border-2 rounded-lg shadow-lg overflow-hidden">
                 <form class="" method="POST" action="{{ route('login') }}">
