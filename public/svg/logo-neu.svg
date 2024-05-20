@@ -1,17 +1,164 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
- "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="500.000000pt" height="205.000000pt" viewBox="0 0 500.000000 205.000000"
- preserveAspectRatio="xMidYMid meet">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 
-<g transform="translate(0.000000,205.000000) scale(0.100000,-0.100000)"
-fill="#000000" stroke="none">
-<path d="M662 1360 c-41 -10 -39 -7 -47 -53 l-8 -39 29 15 c16 8 48 18 72 22
-25 4 42 12 42 20 0 7 3 20 6 29 5 13 -1 16 -27 15 -19 -1 -49 -5 -67 -9z"/>
-<path d="M1024 1354 c3 -9 6 -22 6 -30 0 -8 8 -14 18 -14 9 -1 41 -9 70 -19
-l54 -19 -7 37 c-8 44 -5 41 -52 52 -62 14 -96 12 -89 -7z"/>
-<path d="M1162 903 c-1 -7 -15 -28 -32 -46 -25 -29 -30 -43 -30 -88 0 -36 -6
--59 -17 -72 -17 -19 -17 -19 7 -12 78 24 84 36 78 160 -2 39 -5 65 -6 58z"/>
+<svg
+   version="1.1"
+   id="Layer_2_00000155846542922620396900000015970894229947532965_"
+   x="0px"
+   y="0px"
+   viewBox="0 0 500 205"
+   style="enable-background:new 0 0 500 205;"
+   xml:space="preserve"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs18" /><sodipodi:namedview
+   id="namedview18"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="2.626"
+   inkscape:cx="250"
+   inkscape:cy="102.62757"
+   inkscape:window-width="1920"
+   inkscape:window-height="991"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="layer1" />
+<style
+   type="text/css"
+   id="style1">
+	.st0{fill:#2D7AAE;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:url(#SVGID_00000132063377550514291660000016070376369432635535_);}
+	.st3{fill:url(#SVGID_00000071547632285653584700000013962016137654700675_);}
+	.st4{fill:#F5F7FA;}
+	.st5{fill:url(#SVGID_00000112609017483261915920000014112234698755220906_);}
+</style>
+<g
+   id="g18"
+   style="display:inline">
+	<g
+   id="g11">
+		<g
+   id="g10">
+			<g
+   id="g9">
+				<g
+   id="g8">
+					<g
+   id="g2">
+						<path
+   class="st0"
+   d="m 116.9,109.5 c 0,5.2 -2.8,9.7 -7,12.1 v 1.9 7 c 0,3.9 -3.1,7 -7,7 4.9,0 9.5,-1.3 13.5,-3.5 0.3,-1.1 0.5,-2.3 0.5,-3.5 z"
+   id="path1" />
+						
+							<linearGradient
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="42.707699"
+   y1="135.7487"
+   x2="130.6808"
+   y2="47.775501"
+   gradientTransform="matrix(1,0,0,-1,0,206)">
+							<stop
+   offset="0"
+   style="stop-color:#3AE7E1"
+   id="stop1" />
+							<stop
+   offset="0.9481"
+   style="stop-color:#1993D2"
+   id="stop2" />
+						</linearGradient>
+						<path
+   class="st1"
+   d="M 102.9,95.5 H 75 c -3.9,0 -7,3.1 -7,7 v 28 c 0,3.9 3.1,7 7,7 h 28 c 3.9,0 7,-3.1 7,-7 v -7 -1.9 -19.1 c -0.1,-3.9 -3.2,-7 -7.1,-7 z m -7,28 H 82 v -14 h 14 z"
+   id="path2" />
+					</g>
+					<g
+   id="g7">
+						<g
+   id="g6">
+							
+								<linearGradient
+   id="SVGID_00000136373650974520554620000001398413718164066707_"
+   gradientUnits="userSpaceOnUse"
+   x1="67.758797"
+   y1="160.7998"
+   x2="155.7319"
+   y2="72.826599"
+   gradientTransform="matrix(1,0,0,-1,0,206)">
+								<stop
+   offset="0"
+   style="stop-color:#3AE7E1"
+   id="stop3" />
+								<stop
+   offset="0.9481"
+   style="stop-color:#1993D2"
+   id="stop4" />
+							</linearGradient>
+							<path
+   style="fill:url(#SVGID_00000136373650974520554620000001398413718164066707_)"
+   d="m 76.9,67.5 c 2.4,-4.2 6.9,-7 12.1,-7 5.2,0 9.7,2.8 12.1,7 h 1.9 c 4.7,0 9.3,1 13.6,2.8 C 114.6,56.9 103,46.5 89,46.5 75,46.5 63.4,56.8 61.4,70.3 65.7,68.5 70.3,67.5 75,67.5 Z"
+   id="path4" />
+							<path
+   class="st0"
+   d="m 61,78.3 c 4.1,-2.4 8.9,-3.8 14,-3.8 0,-2.5 0.7,-4.9 1.9,-7 H 75 c -4.7,0 -9.3,1 -13.6,2.8 -0.2,1.4 -0.3,2.8 -0.3,4.2 v 3.8 z"
+   id="path5" />
+							<path
+   class="st0"
+   d="m 101,67.5 c 1.2,2.1 1.9,4.4 1.9,7 5.1,0 9.9,1.4 14,3.8 v -3.8 c 0,-1.4 -0.1,-2.8 -0.3,-4.2 -4.3,-1.8 -8.9,-2.8 -13.6,-2.8 z"
+   id="path6" />
+						</g>
+						
+							<linearGradient
+   id="SVGID_00000134237001975571424250000007484391121173169798_"
+   gradientUnits="userSpaceOnUse"
+   x1="42.676102"
+   y1="135.7171"
+   x2="130.6492"
+   y2="47.7439"
+   gradientTransform="matrix(1,0,0,-1,0,206)">
+							<stop
+   offset="0"
+   style="stop-color:#3AE7E1"
+   id="stop6" />
+							<stop
+   offset="0.9481"
+   style="stop-color:#1993D2"
+   id="stop7" />
+						</linearGradient>
+						<path
+   style="fill:url(#SVGID_00000134237001975571424250000007484391121173169798_)"
+   d="m 116.9,130.5 c 0,1.2 -0.2,2.4 -0.5,3.5 8.6,-4.8 14.4,-13.9 14.4,-24.5 v -7 c 0,-10.3 -5.6,-19.4 -14,-24.2 -4.1,-2.4 -8.9,-3.8 -14,-3.8 H 75 c -5.1,0 -9.9,1.4 -14,3.8 -8.4,4.8 -14,13.8 -14,24.2 v 28 c 0,15.4 12.5,28 28,28 h 28 v 0 c 0,-7.7 -6.3,-14 -14,-14 v 0 H 75 c -7.7,0 -14,-6.3 -14,-14 v -28 c 0,-7.7 6.3,-14 14,-14 h 28 c 7.7,0 14,6.3 14,14 v 7 z"
+   id="path7" />
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	
 </g>
-</svg>
+<g
+   inkscape:groupmode="layer"
+   id="layer1"
+   inkscape:label="Layer 1"
+   style="display:inline"><text
+     xml:space="preserve"
+     style="font-size:78.6667px;line-height:0;fill:#f5f7fa;fill-opacity:1"
+     x="147.08453"
+     y="135.27951"
+     id="text18"><tspan
+       sodipodi:role="line"
+       id="tspan18"
+       x="147.08453"
+       y="135.27951"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:78.6667px;font-family:'Maven Pro';-inkscape-font-specification:'Maven Pro Semi-Bold';fill:#f5f7fa;fill-opacity:1;line-height:0">mxbox.in</tspan></text></g></svg>
